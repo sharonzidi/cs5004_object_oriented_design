@@ -1,0 +1,7 @@
+-classpath '/Users/sharonzidi/go/src/github.ccs.neu.edu/cs5004-spr21-sea/Zidi_Xia_repository/assignment/HW/HW1/hw1Problem1/build/classes/java/main:/Users/sharonzidi/go/src/github.ccs.neu.edu/cs5004-spr21-sea/Zidi_Xia_repository/assignment/HW/HW1/hw1Problem1/build/resources/main'
+-d '/Users/sharonzidi/go/src/github.ccs.neu.edu/cs5004-spr21-sea/Zidi_Xia_repository/assignment/HW/HW1/hw1Problem1/build/docs/javadoc'
+-doctitle 'hw1Problem1 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'hw1Problem1 1.0-SNAPSHOT API'
+'/Users/sharonzidi/go/src/github.ccs.neu.edu/cs5004-spr21-sea/Zidi_Xia_repository/assignment/HW/HW1/hw1Problem1/src/main/java/Owner.java'
+'/Users/sharonzidi/go/src/github.ccs.neu.edu/cs5004-spr21-sea/Zidi_Xia_repository/assignment/HW/HW1/hw1Problem1/src/main/java/Vehicle.java'
